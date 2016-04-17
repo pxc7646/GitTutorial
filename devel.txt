@@ -1,1 +1,4 @@
-pcgithubtest accidently changed this file
+<<<<<<< HEAD
+Development stuff
+pxc7646 is developing new stuff on development
+writing some code
